@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/duplicados-tutorial/master/duplicados-tutorial.jpg)
+![Como eliminar los duplicados en un array](https://raw.githubusercontent.com/sergiecode/duplicados-tutorial/master/duplicados-tutorial.jpg)
 
 # Cómo eliminar duplicados en un array en JavaScript
 
